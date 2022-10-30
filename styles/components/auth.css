@@ -1,0 +1,11 @@
+.auth {
+    display: block;
+}
+
+.auth__title {
+    font-size: 32px;
+}
+
+.auth__form {
+    display: flex;
+}
